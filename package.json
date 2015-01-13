@@ -1,0 +1,19 @@
+{
+  "name": "i8n-outlandish-app",
+  "version": "1.0.0",
+  "description": "An example of internationalisation using angular-translate.",
+  "private": true,
+  "main": "run.js",
+  "dependencies": {
+    "angularjs-templates-brunch": "0.0.3",
+    "auto-reload-brunch": ">=1.7.5",
+    "autoprefixer-brunch": "^1.8.3",
+    "autoprefixer-core": "^3.1.0",
+    "body-parser": "^1.8.1",
+    "express": "^4.10.4",
+    "jade": "^1.7.0",
+    "javascript-brunch": ">=1.7.1",
+    "jshint-brunch": "^1.7.0",
+    "sass-brunch": "^1.8.8"
+  }
+}

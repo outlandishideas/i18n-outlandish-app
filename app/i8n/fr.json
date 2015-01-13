@@ -1,0 +1,10 @@
+{
+  "languageNames": {
+    "en": "Anglais",
+    "es": "Espagnol",
+    "fr": "Français"
+  },
+  "home": {
+    "helloWorld": "Bonjour Le Monde!"
+  }
+}

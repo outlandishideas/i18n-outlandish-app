@@ -1,0 +1,15 @@
+{
+  "name": "i8n-outlandish-app",
+  "version": "1.0.0",
+  "description": "An example of internationalisation using angular-translate.",
+  "main": "run.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.3.8",
+    "angular-route": "~1.3.6",
+    "angular-translate": "~2.5.2",
+    "angular-translate-loader-url": "~2.5.2",
+    "angular-translate-storage-cookie": "~2.5.2"
+  }
+}

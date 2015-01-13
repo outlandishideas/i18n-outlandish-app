@@ -1,0 +1,11 @@
+<select ng-change="setLocale()" ng-model="locale">
+    <option value="en" ng-selected="locale == 'en'">
+        {{ 'languageNames.en' | translate }}
+    </option>
+    <option value="es" ng-selected="locale == 'es'">
+        {{ 'languageNames.es' | translate }}
+    </option>
+    <option value="fr" ng-selected="locale == 'fr'">
+        {{ 'languageNames.fr' | translate }}
+    </option>
+</select>
