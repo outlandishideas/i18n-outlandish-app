@@ -1,5 +1,5 @@
 angular
-    .module('i8nOutlandishApp')
+    .module('i18nOutlandishApp')
     .controller('HomeController', function($scope, $rootScope) {
         "use strict";
 

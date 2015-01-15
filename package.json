@@ -1,5 +1,5 @@
 {
-  "name": "i8n-outlandish-app",
+  "name": "i18n-outlandish-app",
   "version": "1.0.0",
   "description": "An example of internationalisation using angular-translate.",
   "private": true,

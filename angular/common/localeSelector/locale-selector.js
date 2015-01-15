@@ -1,5 +1,5 @@
 angular
-    .module('i8nOutlandishApp')
+    .module('i18nOutlandishApp')
     .directive('localeSelector', function($translate) {
         return {
             restrict: 'C',

@@ -1,5 +1,5 @@
 angular
-    .module('i8nOutlandishApp', ['ngRoute', 'ngCookies', 'pascalprecht.translate', 'templates'])
+    .module('i18nOutlandishApp', ['ngRoute', 'ngCookies', 'pascalprecht.translate', 'templates'])
     .config(function($routeProvider, $locationProvider, $translateProvider) {
         "use strict";
 

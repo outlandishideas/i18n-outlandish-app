@@ -7,7 +7,7 @@ module.exports = function(app) {
         }
 
         try {
-            var lang = require('../i8n/' + req.query.lang);
+            var lang = require('../i18n/' + req.query.lang);
             res.send(lang); // `lang ` contains parsed JSON
         } catch(err) {
             res.status(404).send();
